@@ -1,4 +1,5 @@
 ﻿<h1>Hii 👋 I am Devansh Chourey! <h1>
+ 
  # 💫 About Me:
 🔭I’m currently working on Software Development & building scalable full-stack web applications using React.js, TypeScript, Next.js 14, shadcn/ui, and Drizzle ORM — with a focus on real-time performance, clean API architecture, and seamless cloud deployment.<br>🧑‍🤝‍🧑 I’m looking to collaborate on high-impact projects in FinTech, EdTech, or SaaS that leverage the MERN stack, PostgreSQL, WebSockets, and cloud-native architecture using Docker and Kubernetes.<br>💬 Ask me about full-stack app architecture (React, Next.js, Node.js), real-time APIs, Drizzle ORM with PostgreSQL, GraphQL integration, or cloud-native deployment workflows.<br>⚡ Fun fact: I once built a fully functional FinTech lead-gen platform with custom AI-based loan recommendations — all while debugging real-time dashboard alerts under 500ms latency.
 
